@@ -16,6 +16,9 @@ Getting up and running is as easy as 1, 2, 3.
     ```
     cd path/to/DevLog; npm install
     ```
+     ```
+        bower install --save mui
+        ```
 
 3. Start your app
 
